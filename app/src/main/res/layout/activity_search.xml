@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#8caba8"
+    tools:context="${relativePackage}.${activityClass}" >
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        >
+        <Spinner 
+            android:id="@+id/search_spin"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_marginRight="10dp"
+            />
+        <!-- 
+        <Button 
+            android:id="@+id/search_close"
+            android:layout_height="40dp"
+            android:layout_width="40dp"
+            android:background="@drawable/btn_close"
+            />
+             -->
+    </LinearLayout>
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+        <EditText 
+            android:id="@+id/search_edit"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_marginRight="10dp"
+            android:singleLine="true"
+            android:hint="@string/search_msg_hint"
+            android:inputType="text"
+            />
+        <Button 
+            android:id="@+id/search_btn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/btn_find"
+            />
+    </LinearLayout>
+    
+    <ListView 
+        android:id="@+id/search_listviewVerse"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    </ListView>
+
+</LinearLayout>

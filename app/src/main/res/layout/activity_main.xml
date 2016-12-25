@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:keepScreenOn="true"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout 
+        android:id="@+id/main_topBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#e3b69d"
+        >
+        
+        <Button 
+            android:id="@+id/main_btnSearch" 
+ 			android:layout_width="40dp"
+    		android:layout_height="40dp"
+    		android:layout_marginLeft="5dp"
+    		android:background="@drawable/btn_search"
+    		/>
+        
+        <Button 
+            android:id="@+id/main_btnPrev"
+            android:layout_height="40dp"
+            android:layout_width="40dp"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/btn_prev"
+            />
+        <!-- 누르면 activity_contents, 차례로 넘어간다. -->
+        <TextView 
+            android:id="@+id/main_btnChapter"
+            android:text=""
+            android:layout_height="40dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:padding="2dp"
+            android:singleLine="true"
+            android:background="@drawable/btn_chapter"
+            />
+        <Button 
+            android:id="@+id/main_btnNext"
+            android:layout_height="40dp"
+            android:layout_width="40dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/btn_next"
+            />
+    </LinearLayout>    
+
+	<LinearLayout
+		android:id="@+id/main_listVerse" 
+    	android:layout_height="0dp" 
+    	android:layout_width="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	android:background="#e3b69d"
+    	>
+        <ListView
+    		android:id="@+id/main_listviewVerse"
+    		android:layout_width="match_parent"
+    		android:layout_height="match_parent"
+    		android:choiceMode="singleChoice"
+    		android:dividerHeight="0px"
+			android:divider="@null"
+			/>
+	</LinearLayout>
+    
+	<LinearLayout 
+	    android:id="@+id/main_bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#e3b69d"
+	    >
+	    <ToggleButton 
+            android:id="@+id/main_btnPlay" 
+ 			android:layout_width="30dp"
+    		android:layout_height="30dp"
+    		android:layout_marginLeft="10dp"
+    		android:layout_marginRight="10dp"
+    		android:textOn=""
+    		android:textOff=""
+    		android:background="@drawable/btn_play_pause"
+    		/>
+	    <ProgressBar 
+	        android:id="@+id/main_barPlay"
+	        style="?android:attr/progressBarStyleHorizontal"
+	        android:max="100"
+	        android:progress="0"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginRight="10dp"
+	        android:layout_gravity="center_vertical"	        
+	        />    	        
+	</LinearLayout>
+	
+</LinearLayout>

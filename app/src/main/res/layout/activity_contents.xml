@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#fedcba"
+    tools:context=".ContentsActivity" >
+
+    <!-- 첫번째 행 -->
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/contents_btn1"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button1"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn2"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button2"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn3"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button3"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn4"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button4"
+            android:textSize="15sp" />
+    </TableRow>
+
+    <!-- 두번째 행 -->
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/contents_btn5"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button5"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn6"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button6"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn7"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button7"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn8"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button8"
+            android:textSize="15sp" />
+    </TableRow>
+
+    <!-- 세번째 행 -->
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/contents_btn9"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button9"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn10"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button10"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn11"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button11"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn12"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button12"
+            android:textSize="15sp" />
+    </TableRow>
+
+    <!-- 네번째 행 -->
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/contents_btn13"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button13"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn14"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button14"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn15"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button15"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn16"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button16"
+            android:textSize="15sp" />
+    </TableRow>
+
+    <!-- 다섯번째 행 -->
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/contents_btn17"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button17"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn18"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button18"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn19"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button19"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn20"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button20"
+            android:textSize="15sp" />
+    </TableRow>
+
+    <!-- 여섯번째 행 -->
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/contents_btn21"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button21"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn22"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button22"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn23"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button23"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn24"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button24"
+            android:textSize="15sp" />
+    </TableRow>
+
+    <!-- 일곱번째 행 -->
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/contents_btn25"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button25"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn26"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button26"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn27"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:text="@string/content_button27"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/contents_btn28"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#ffecef"
+            android:text="@string/content_button28"
+            android:textSize="15sp" />
+    </TableRow>
+
+</TableLayout>

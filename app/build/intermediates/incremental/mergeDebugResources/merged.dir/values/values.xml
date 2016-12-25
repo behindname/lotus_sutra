@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">법화경 Lite</string>
+    <string name="cancel_button">취소</string>
+    <string name="content_button1">서품</string>
+    <string name="content_button10">법사품</string>
+    <string name="content_button11">견보탑품</string>
+    <string name="content_button12">제바달다품</string>
+    <string name="content_button13">권지품</string>
+    <string name="content_button14">안락행품</string>
+    <string name="content_button15">종지용출품</string>
+    <string name="content_button16">여래수량품</string>
+    <string name="content_button17">분별공덕품</string>
+    <string name="content_button18">수희공덕품</string>
+    <string name="content_button19">법사공덕품</string>
+    <string name="content_button2">방편품</string>
+    <string name="content_button20">상불경보살품</string>
+    <string name="content_button21">여래신력품</string>
+    <string name="content_button22">촉루품</string>
+    <string name="content_button23">약왕보살본사품</string>
+    <string name="content_button24">묘음보살품</string>
+    <string name="content_button25">관세음보살보문품</string>
+    <string name="content_button26">다라니품</string>
+    <string name="content_button27">묘장엄왕본사품</string>
+    <string name="content_button28">보현보살권발품</string>
+    <string name="content_button3">비유품</string>
+    <string name="content_button4">신해품</string>
+    <string name="content_button5">약초유품</string>
+    <string name="content_button6">수기품</string>
+    <string name="content_button7">화성유품</string>
+    <string name="content_button8">오백제자수기품</string>
+    <string name="content_button9">수학무학인기품</string>
+    <string name="dialog_btn_minus">-</string>
+    <string name="dialog_btn_plus">+</string>
+    <string name="dialog_search_entire">전체 검색</string>
+    <string name="dialog_search_part">현재품 검색</string>
+    <string name="dialog_search_title">검색하기</string>
+    <string name="dialog_verse_bookmark">책갈피 넣기</string>
+    <string name="dialog_verse_copy">복사하기</string>
+    <string name="dialog_verse_share">공유하기</string>
+    <string name="dialog_verse_share_limit">더 이상 구절이 없습니다.</string>
+    <string name="dialog_verse_share_msg">이 구절을 공유하시겠습니까?</string>
+    <string name="file_read_err">파일을 읽는데 실패하였습니다.</string>
+    <string name="file_write_err">파일 쓰기에 실패하였습니다.</string>
+    <string name="file_write_success">파일 쓰기에 성공하였습니다.</string>
+    <string name="msg_part_begin">이 품의 처음입니다.</string>
+    <string name="msg_part_end">이 품의 마지막입니다.</string>
+    <string name="ok_button">확인</string>
+    <string name="search_msg_hint">검색어를 입력해주세요</string>
+    <string name="search_msg_no_result">검색 결과가 없습니다.</string>
+    <string name="sutra_name">법화경</string>
+    <string name="title_activity">법화경 Lite</string>
+    <string name="title_activity_contents">차례</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="title_activity_search">검색하기</string>
+    <string name="title_button1">법화경\n法華經</string>
+    <string name="title_button2">법화경이란?\n\t</string>
+    <string name="title_button3">사경하기</string>
+    <string name="tts_init_err">듣기 기능이 지원되지 않습니다.</string>
+    <string name="tts_play_msg">본문 듣기가 진행중입니다.</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

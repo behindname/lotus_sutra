@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\behindname\Lotus_sutra\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0259534ba43425cc5458ee21540ba106b03b7350">
+        <dex dex="D:\Android\behindname\Lotus_sutra\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08a33b8491d5167a4fb7f2fe0b1b8726ba497fbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\behindname\Lotus_sutra\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_43672599e23b63960f77c093f7178639da2571f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\behindname\Lotus_sutra\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b172281de0498a19a363a4a2b8e2f8e9bcaa1f39">
+        <dex dex="D:\Android\behindname\Lotus_sutra\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a24e8ee133251a98d9a9a8baf42d43d5feb6743d\classes.dex" />
+    </item>
+
+</items>

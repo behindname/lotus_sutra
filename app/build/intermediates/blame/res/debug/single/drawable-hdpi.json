@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\intro_brief.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\intro_brief.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_play.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_search.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\btn_search.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_dabotap.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\title_dabotap.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_rotate.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\ic_play_rotate.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_help.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\menu_help.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_dictionary.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\ic_dictionary.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_bookmark.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\menu_bookmark.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_oneway.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\ic_play_oneway.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_dabotap_white.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\title_dabotap_white.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_new.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_new.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_find.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\menu_find.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_find.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\btn_find.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_next.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\btn_next.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_prev.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\btn_prev.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_pause.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chapter.9.png",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\drawable-hdpi\\btn_chapter.9.png"
+    }
+]

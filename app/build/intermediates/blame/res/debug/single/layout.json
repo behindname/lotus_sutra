@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogue_share.xml",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\layout\\dialogue_share.xml"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contents.xml",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\layout\\activity_contents.xml"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\Android\\behindname\\Lotus_sutra\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro.xml",
+        "source": "D:\\Android\\behindname\\Lotus_sutra\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    }
+]
